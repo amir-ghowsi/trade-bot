@@ -1,6 +1,0 @@
-{
-  "name": "Dow Jones & Nasdaq Trading System",
-  "description": "Production-grade algorithmic trading system for Dow Jones and Nasdaq (M5 structure analysis with M1 causal execution confirmation).",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
