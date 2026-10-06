@@ -1,3 +1,0 @@
-"""
-Tests Root Package.
-"""
